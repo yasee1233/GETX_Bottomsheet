@@ -1,0 +1,1 @@
+Get.bottomSheet is a simplified, context-free way to show a bottom sheet using the GetX package. It wraps Flutter’s native showModalBottomSheet but removes the need for BuildContext, making it cleaner and reactive.
